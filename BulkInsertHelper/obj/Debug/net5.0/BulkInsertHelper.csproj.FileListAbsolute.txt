@@ -1,0 +1,4 @@
+C:\repos\Danny\BulkInsertHelper\BulkInsertHelper\bin\Debug\net5.0\BulkInsertHelper.exe
+C:\repos\Danny\BulkInsertHelper\BulkInsertHelper\obj\Debug\net5.0\BulkInsertHelper.csprojAssemblyReference.cache
+C:\repos\Danny\BulkInsertHelper\BulkInsertHelper\obj\Debug\net5.0\BulkInsertHelper.AssemblyInfoInputs.cache
+C:\repos\Danny\BulkInsertHelper\BulkInsertHelper\obj\Debug\net5.0\BulkInsertHelper.AssemblyInfo.cs
